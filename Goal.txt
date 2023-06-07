@@ -1,0 +1,35 @@
+			
+
+
+
+
+
+
+
+				stuck on categories of places
+				
+
+Focus on Categories of Provinces and Filtering
+Create the Page for Redirection of the Beaches into a single page (scroll only to see other beaches) (sep page)
+
+
+UI of landing page
+category of provinces and filtering
+Beach Redirection page
+
+
+PROCESS
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Portal of portals
+"Reroute the best travel agency prices to our website when searching for a location to travel to"
+"Small Travel Agencies" - to justify that the governemnt helps them
+
+At least 5 Websites/Travel Agencies
+
+Maybe Flights only, no lodging etc
+
+Goal is to help small and starting travel agencies.
+
+suggest links and redirect to link of booking process
+
+API
